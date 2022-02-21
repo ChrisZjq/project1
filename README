@@ -1,6 +1,14 @@
 WELCOME TO TALBERT AND CHRIS CLI 
 
 HOW TO USE:
+In order to run the program successfully the following packages are required to be installed:
+stdio.h
+string.h
+unistd.h
+sys/types.h
+sys/wait.h
+readline/readline.h
+readline/history.h
 
 RUN ./cli
 
